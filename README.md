@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Selenium, Cucumber, Pytest**
 
-- 📫 How to reach me **saurabhpiyush@spglobal.com**
+- 📫 How to reach me **saurabhpiyush@thalesgroup.com**
 
 - ⚡ Fun fact **I love to travel to unheard places**
 
